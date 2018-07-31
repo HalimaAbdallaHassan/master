@@ -1,0 +1,25 @@
+.jumbotron{
+	background-image:url(../images/earth.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+
+}
+
+.jumbotron h1{
+	color: #fff;
+
+}
+
+#clim{
+	background-image:url(../images/lg.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+
+}
+
+.lg h2{
+	font-weight: bolder;
+	color: beige;
+
+}
+
